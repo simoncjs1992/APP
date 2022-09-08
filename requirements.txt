@@ -1,0 +1,4 @@
+pyecharts==1.9.1
+streamlit==1.11.0
+streamlit-echarts==0.4.0
+pandas==1.4.2
