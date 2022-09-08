@@ -14,7 +14,7 @@ st.set_page_config(page_title='Dashboard',page_icon=':notebook:',layout='wide')
 st.title(':mortar_board: 玩数圈App')
 st.markdown('---')
 
-df=pd.read_excel(r'data\userPyOut.xlsx')
+df=pd.read_excel(r'data/userPyOut.xlsx')
 
 
 st.sidebar.header('请在此处进行筛选: ')
